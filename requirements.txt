@@ -6,3 +6,5 @@ lxml_html_clean
 numpy
 py_asciimath
 urllib3
+streamlit>=1.31
+requests
